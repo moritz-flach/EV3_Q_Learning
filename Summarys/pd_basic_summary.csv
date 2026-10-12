@@ -1,0 +1,2 @@
+controller, target, kp, kd, base_speed, track_length_mm, completed, duration_ms, distance_mm, mean_speed_mm_s, track_speed_mm_s, extra_distance_mm, mean_abs_error, rms_error, max_abs_error, mean_abs_turn, mean_turn_change, turn_direction_changes
+pd_basic, 35, 3.0, 0.25, 90, 2000, 1, 121136, 5334.808298230908, 44.03982547080066, 16.51036851142518, 3334.808298230908, 7.948135447921132, 10.90902645164036, 53, 24.81648562949587, 5.534798578920554, 54
